@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Node,Python**
 
-- 🌱 I’m currently learning **Data Science, ML**
-
 - 🤝 I’m looking for help with **Data Science**
 
 - 📫 How to reach me **shailendra.rks@gmail.com**
