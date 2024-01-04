@@ -1,6 +1,6 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **Node,Python**
+- 🔭 I’m currently working on **Angular,Python**
 
 - 🤝 I’m looking for help with **Data Science**
 
